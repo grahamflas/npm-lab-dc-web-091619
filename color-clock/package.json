@@ -1,0 +1,21 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "an example project using npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grahamflas/npm-lab-dc-web-091619/tree/solution"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "graham flaspoehler",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
